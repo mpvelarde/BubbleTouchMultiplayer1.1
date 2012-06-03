@@ -1,0 +1,139 @@
+﻿Compilación iniciada a las 08/12/2011 18:23:01.
+     1>Proyecto "C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "x64\Debug\BubbleTouchMultiplayer1.1.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /IC:\OpenCV2.3\build\include /IC:\OpenCV2.3\build\include\opencv /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt Game.cpp
+         Game.cpp
+     1>c:\opencv2.3\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : vea la declaración de 'fopen'
+     1>c:\opencv2.3\build\include\opencv2\flann\lsh_table.h(417): warning C4267: 'argumento' : conversión de 'size_t' a 'cvflann::lsh::FeatureIndex'; posible pérdida de datos
+     1>c:\opencv2.3\build\include\opencv2\flann\lsh_table.h(425): warning C4267: 'argumento' : conversión de 'size_t' a 'cvflann::lsh::FeatureIndex'; posible pérdida de datos
+     1>C:\OpenCV2.3\build\include\opencv2/flann/flann.hpp(233): warning C4996: 'cv::flann::Index_<T>': se declaró obsoleto
+                 C:\OpenCV2.3\build\include\opencv2/flann/flann.hpp(278) : vea la referencia a la creación de instancias de plantilla de clase 'cv::flann::Index_<T>' que se está compilando
+     1>Game.cpp(240): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(240): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(243): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(243): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(247): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(247): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(252): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(252): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(258): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(258): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(261): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(261): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(265): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(265): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(270): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(270): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(276): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(276): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(279): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(279): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(283): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(283): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(287): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(287): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(292): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(292): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(294): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(294): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(298): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(298): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(302): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(302): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(307): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(307): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(309): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(309): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(313): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(313): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(317): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(317): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(328): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(328): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(331): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(331): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(335): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(335): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(340): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(340): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(346): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(346): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(349): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(349): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(353): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(353): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(358): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(358): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(364): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(364): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(367): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(367): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(371): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(371): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(375): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(375): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(380): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(380): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(382): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(382): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(386): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(386): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(390): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(390): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(395): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(395): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(397): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(397): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(401): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(401): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(405): warning C4018: '<' : no coinciden signed/unsigned
+     1>Game.cpp(405): warning C4018: '>' : no coinciden signed/unsigned
+     1>Game.cpp(449): warning C4244: 'argumento' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>Game.cpp(449): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : vea la declaración de 'itoa'
+     1>Game.cpp(450): warning C4244: 'argumento' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>Game.cpp(450): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : vea la declaración de 'itoa'
+     1>c:\opencv2.3\build\include\opencv2\flann\lsh_table.h(260): warning C4267: '=' : conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+                 c:\opencv2.3\build\include\opencv2\flann\lsh_table.h(258) : durante la compilación de la función miembro de plantilla de clase 'void cvflann::lsh::LshTable<ElementType>::initialize(size_t)'
+                 with
+                 [
+                     ElementType=unsigned char
+                 ]
+                 c:\opencv2.3\build\include\opencv2\flann\lsh_table.h(329) : vea la referencia a la creación de instancias de plantilla de clase 'cvflann::lsh::LshTable<ElementType>' que se está compilando
+                 with
+                 [
+                     ElementType=unsigned char
+                 ]
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\x64\Debug\BubbleTouchMultiplayer1.1.exe" /INCREMENTAL /NOLOGO C:\OpenCV2.3\build\x64\vc10\lib\opencv_core231d.lib C:\OpenCV2.3\build\x64\vc10\lib\opencv_highgui231d.lib C:\OpenCV2.3\build\x64\vc10\lib\opencv_video231d.lib C:\OpenCV2.3\build\x64\vc10\lib\opencv_ml231d.lib C:\OpenCV2.3\build\x64\vc10\lib\opencv_legacy231d.lib C:\OpenCV2.3\build\x64\vc10\lib\opencv_imgproc231d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\BubbleTouchMultiplayer1.1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\x64\Debug\BubbleTouchMultiplayer1.1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\x64\Debug\BubbleTouchMultiplayer1.1.lib" /MACHINE:X64 x64\Debug\BubbleTouchMultiplayer1.1.exe.embed.manifest.res
+         x64\Debug\Bubble.obj
+         x64\Debug\BubbleTouchMultiplayer1.1.obj
+         x64\Debug\cvaux.obj
+         x64\Debug\cvblob.obj
+         x64\Debug\cvcolor.obj
+         x64\Debug\cvcontour.obj
+         x64\Debug\cvlabel.obj
+         x64\Debug\cvtrack.obj
+         x64\Debug\Game.obj
+         x64\Debug\Player.obj
+         BubbleTouchMultiplayer1.1.vcxproj -> C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\x64\Debug\BubbleTouchMultiplayer1.1.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\BubbleTouchMultiplayer1.1.exe.embed.manifest" /manifest x64\Debug\BubbleTouchMultiplayer1.1.exe.intermediate.manifest
+         Todas las salidas están actualizadas.
+       LinkEmbedManifest:
+         Todas las salidas están actualizadas.
+         BubbleTouchMultiplayer1.1.vcxproj -> C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\x64\Debug\BubbleTouchMultiplayer1.1.exe
+       FinalizeBuildStatus:
+         Se eliminará el archivo "x64\Debug\BubbleTouchMultiplayer1.1.unsuccessfulbuild".
+         Aplicando tarea Touch a "x64\Debug\BubbleTouchMultiplayer1.1.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:07.78

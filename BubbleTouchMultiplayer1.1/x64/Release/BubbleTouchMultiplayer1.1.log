@@ -1,0 +1,17 @@
+﻿Compilación iniciada a las 31/05/2012 14:24:28.
+     1>Proyecto "C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "x64\Release\BubbleTouchMultiplayer1.1.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         Todas las salidas están actualizadas.
+         BubbleTouchMultiplayer1.1.vcxproj -> C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\x64\Release\BubbleTouchMultiplayer1.1.exe
+       FinalizeBuildStatus:
+         Se eliminará el archivo "x64\Release\BubbleTouchMultiplayer1.1.unsuccessfulbuild".
+         Aplicando tarea Touch a "x64\Release\BubbleTouchMultiplayer1.1.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.40

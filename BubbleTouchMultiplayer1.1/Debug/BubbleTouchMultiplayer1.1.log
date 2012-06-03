@@ -1,0 +1,153 @@
+﻿Compilación iniciada a las 07/12/2011 23:02:16.
+     1>Proyecto "C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Aplicando tarea Touch a "Debug\BubbleTouchMultiplayer1.1.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\OpenCV2.3\build\include /IC:\OpenCV2.3\build\include\opencv /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp
+         Game.cpp
+     1>c:\opencv2.3\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : vea la declaración de 'fopen'
+     1>c:\opencv2.3\build\include\opencv2\flann\flann.hpp(233): warning C4996: 'cv::flann::Index_<T>': se declaró obsoleto
+                 c:\opencv2.3\build\include\opencv2\flann\flann.hpp(278) : vea la referencia a la creación de instancias de plantilla de clase 'cv::flann::Index_<T>' que se está compilando
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(233): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(233): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(236): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(236): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(240): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(240): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(245): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(245): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(251): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(251): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(254): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(254): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(258): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(258): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(263): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(263): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(269): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(269): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(272): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(272): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(276): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(276): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(280): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(280): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(285): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(285): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(287): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(287): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(291): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(291): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(295): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(295): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(300): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(300): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(302): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(302): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(306): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(306): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(310): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(310): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(321): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(321): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(324): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(324): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(328): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(328): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(333): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(333): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(339): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(339): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(342): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(342): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(346): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(346): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(351): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(351): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(357): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(357): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(360): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(360): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(364): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(364): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(368): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(368): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(373): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(373): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(375): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(375): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(379): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(379): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(383): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(383): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(388): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(388): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(390): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(390): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(394): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(394): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(398): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(398): warning C4018: '>' : no coinciden signed/unsigned
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(442): warning C4244: 'argumento' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(442): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : vea la declaración de 'itoa'
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(443): warning C4244: 'argumento' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\mapaz\documents\visual studio 2010\projects\bubbletouchmultiplayer1.1\bubbletouchmultiplayer1.1\game.cpp(443): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : vea la declaración de 'itoa'
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\Debug\BubbleTouchMultiplayer1.1.exe" /INCREMENTAL /NOLOGO C:\OpenCV2.3\build\x64\vc10\lib\opencv_core231d.lib C:\OpenCV2.3\build\x64\vc10\lib\opencv_highgui231d.lib C:\OpenCV2.3\build\x64\vc10\lib\opencv_video231d.lib C:\OpenCV2.3\build\x64\vc10\lib\opencv_ml231d.lib C:\OpenCV2.3\build\x64\vc10\lib\opencv_legacy231d.lib C:\OpenCV2.3\build\x64\vc10\lib\opencv_imgproc231d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BubbleTouchMultiplayer1.1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\Debug\BubbleTouchMultiplayer1.1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\Debug\BubbleTouchMultiplayer1.1.lib" /MACHINE:X86 Debug\BubbleTouchMultiplayer1.1.exe.embed.manifest.res
+         Debug\Bubble.obj
+         Debug\BubbleTouchMultiplayer1.1.obj
+         Debug\cvaux.obj
+         Debug\cvblob.obj
+         Debug\cvcolor.obj
+         Debug\cvcontour.obj
+         Debug\cvlabel.obj
+         Debug\cvtrack.obj
+         Debug\Game.obj
+         Debug\Player.obj
+     1>cvblob.obj : error LNK2019: símbolo externo _cvLine sin resolver al que se hace referencia en la función _cvRenderBlob
+     1>cvcontour.obj : error LNK2001: símbolo externo _cvLine sin resolver
+     1>cvblob.obj : error LNK2019: símbolo externo _cvRectangle sin resolver al que se hace referencia en la función _cvRenderBlob
+     1>cvtrack.obj : error LNK2001: símbolo externo _cvRectangle sin resolver
+     1>cvtrack.obj : error LNK2001: símbolo externo _cvError sin resolver
+     1>cvblob.obj : error LNK2019: símbolo externo _cvError sin resolver al que se hace referencia en la función _cvRenderBlob
+     1>cvcolor.obj : error LNK2001: símbolo externo _cvError sin resolver
+     1>cvcontour.obj : error LNK2001: símbolo externo _cvError sin resolver
+     1>cvlabel.obj : error LNK2001: símbolo externo _cvError sin resolver
+     1>cvblob.obj : error LNK2019: símbolo externo _cvSetImageROI sin resolver al que se hace referencia en la función _cvSaveImageBlob
+     1>Game.obj : error LNK2001: símbolo externo _cvSetImageROI sin resolver
+     1>cvblob.obj : error LNK2019: símbolo externo _cvSaveImage sin resolver al que se hace referencia en la función _cvSaveImageBlob
+     1>cvblob.obj : error LNK2019: símbolo externo _cvGetImageROI sin resolver al que se hace referencia en la función _cvSaveImageBlob
+     1>cvlabel.obj : error LNK2019: símbolo externo _cvSetZero sin resolver al que se hace referencia en la función _cvLabel
+     1>cvtrack.obj : error LNK2019: símbolo externo _cvPutText sin resolver al que se hace referencia en la función _cvRenderTracks
+     1>Game.obj : error LNK2001: símbolo externo _cvPutText sin resolver
+     1>cvtrack.obj : error LNK2019: símbolo externo _cvInitFont sin resolver al que se hace referencia en la función _cvRenderTracks
+     1>Game.obj : error LNK2001: símbolo externo _cvInitFont sin resolver
+     1>Game.obj : error LNK2019: símbolo externo _cvDestroyWindow sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvReleaseImage sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvWaitKey sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvShowImage sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvSmooth sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvInRangeS sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvCvtColor sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvCopy sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvCreateImage sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvGetSize sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvQueryFrame sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvGrabFrame sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvMoveWindow sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvNamedWindow sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvCreateCameraCapture sin resolver al que se hace referencia en la función "public: __thiscall Game::Game(void)" (??0Game@@QAE@XZ)
+     1>Game.obj : error LNK2019: símbolo externo _cvLoadImage sin resolver al que se hace referencia en la función "public: void __thiscall Game::drawBubbles(struct _IplImage *)" (?drawBubbles@Game@@QAEXPAU_IplImage@@@Z)
+     1>Game.obj : error LNK2019: símbolo externo _cvResetImageROI sin resolver al que se hace referencia en la función "public: void __thiscall Game::drawBubble(struct _IplImage *,struct _IplImage *,struct CvPoint)" (?drawBubble@Game@@QAEXPAU_IplImage@@0UCvPoint@@@Z)
+     1>Game.obj : error LNK2019: símbolo externo _cvAdd sin resolver al que se hace referencia en la función "public: void __thiscall Game::drawBubble(struct _IplImage *,struct _IplImage *,struct CvPoint)" (?drawBubble@Game@@QAEXPAU_IplImage@@0UCvPoint@@@Z)
+     1>C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\Debug\BubbleTouchMultiplayer1.1.exe : fatal error LNK1120: 27 externos sin resolver
+     1>Compilación del proyecto terminada "C:\Users\Mapaz\Documents\Visual Studio 2010\Projects\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1\BubbleTouchMultiplayer1.1.vcxproj" (build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:10.60
